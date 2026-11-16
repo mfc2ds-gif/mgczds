@@ -1,18 +1,99 @@
+# ePDG - WiFi Calling 直连
 DOMAIN,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
 DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
 DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
 DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,DIRECT
+
+# 国内银行
+# 招商银行 / 掌上生活
 DOMAIN-SUFFIX,cmbchina.com,DIRECT
+# 工商银行 / 工银e生活
 DOMAIN-SUFFIX,icbc.com.cn,DIRECT
+# 农业银行 / 发现精彩
 DOMAIN-SUFFIX,abchina.com,DIRECT
+# 建设银行
 DOMAIN-SUFFIX,ccb.com,DIRECT
+# 中国银行
 DOMAIN-SUFFIX,boc.cn,DIRECT
+# 交通银行 / 买单吧
 DOMAIN-SUFFIX,bankcomm.com,DIRECT
+# 浦发银行 / 浦大喜奔
 DOMAIN-SUFFIX,spdb.com.cn,DIRECT
+# 中信银行 / 动卡空间
 DOMAIN-SUFFIX,ecitic.com,DIRECT
+# 广发银行
 DOMAIN-SUFFIX,cgbchina.com.cn,DIRECT
+# 民生银行 / 全民生活
 DOMAIN-SUFFIX,cmbc.com.cn,DIRECT
+# 邮储银行
 DOMAIN-SUFFIX,psbc.com,DIRECT
+# 兴业银行 / 兴业生活
 DOMAIN-SUFFIX,cib.com.cn,DIRECT
+# 华夏银行 / 华彩生活
+DOMAIN-SUFFIX,hxb.com.cn,DIRECT
+# 平安银行 / 平安口袋银行
+DOMAIN-SUFFIX,pingan.com,DIRECT
+# 壹钱包
+DOMAIN-SUFFIX,yqb.com,DIRECT
+DOMAIN-SUFFIX,1qianbao.com,DIRECT
+# 沧州银行
+DOMAIN-SUFFIX,bankcz.com,DIRECT
+DOMAIN-SUFFIX,bankcz.cn,DIRECT
+# 云闪付
 DOMAIN-SUFFIX,unionpay.com,DIRECT
 DOMAIN-SUFFIX,95516.com,DIRECT
+
+# 支付
+# 翼支付
+DOMAIN-SUFFIX,bestpay.com.cn,DIRECT
+# 网易支付
+DOMAIN-SUFFIX,epay.163.com,DIRECT
+# AlipayHK
+DOMAIN-SUFFIX,alipayhk.com,DIRECT
+
+# 海外银行
+# 汇丰香港
+DOMAIN-SUFFIX,hsbc.com.hk,DIRECT
+# 蚂蚁银行
+DOMAIN-SUFFIX,antbank.hk,DIRECT
+# ZA Bank 众安银行
+DOMAIN-SUFFIX,za.group,DIRECT
+# iFAST Global Bank
+DOMAIN-SUFFIX,ifastgb.com,DIRECT
+# Maya
+DOMAIN-SUFFIX,maya.ph,DIRECT
+# 八达通
+DOMAIN-SUFFIX,octopus.com.hk,DIRECT
+# Wise
+DOMAIN-SUFFIX,wise.com,DIRECT
+# PayPal
+DOMAIN-SUFFIX,paypal.com,DIRECT
+
+# 券商 / 行情
+# 香港盈立证券
+DOMAIN-SUFFIX,usmartglobal.com,DIRECT
+# 同花顺 / 同花顺期货通
+DOMAIN-SUFFIX,10jqka.com.cn,DIRECT
+
+# 币圈
+# 币安
+DOMAIN-SUFFIX,binance.com,DIRECT
+# 欧易 OKX
+DOMAIN-SUFFIX,okx.com,DIRECT
+# Kraken
+DOMAIN-SUFFIX,kraken.com,DIRECT
+# MetaMask
+DOMAIN-SUFFIX,metamask.io,DIRECT
+# imToken
+DOMAIN-SUFFIX,token.im,DIRECT
+# OneKey
+DOMAIN-SUFFIX,onekey.so,DIRECT
+# Plasma One
+DOMAIN-SUFFIX,plasma.org,DIRECT
+DOMAIN-SUFFIX,plasma.to,DIRECT
+
+# 税务
+# 电子税务局 / 个人所得税
+DOMAIN-SUFFIX,chinatax.gov.cn,DIRECT
+# 百旺金穗云（母公司域名，未核实 App 是否走这个）
+DOMAIN-SUFFIX,baiwang.com.cn,DIRECT
